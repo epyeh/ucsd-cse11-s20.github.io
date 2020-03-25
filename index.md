@@ -105,6 +105,8 @@ The schedule below outlines topics, due dates, and links to assignments. In a ty
 ### Staff
 <a id="staff"></a>
 
+you mee too
+
 [COMING SOON]
 
 <a id="grading"></a>
