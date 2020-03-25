@@ -105,7 +105,7 @@ The schedule below outlines topics, due dates, and links to assignments. In a ty
 ### Staff
 <a id="staff"></a>
 
-you mee too
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=dWNzZC5lZHVfc28yNnVsZmRhN2VhaDgwa2M0YjJpZ2Y0bG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 [COMING SOON]
 
